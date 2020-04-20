@@ -1,0 +1,2 @@
+# self_taught
+pythonなど
